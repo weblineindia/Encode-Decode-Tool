@@ -13,4 +13,4 @@ We also provide a free, basic support for all users who want to use this encoder
 
 ### Online Demo of Encode Decode Tool
 
-We have also hosted this [encoder decoder tool](https://www.weblineindia.com/resources/encoder-decoder-online.html/) on our website if you want to use it or would like to check how it works.
+We have also hosted this [encoder decoder tool](https://www.technetexperts.com/encoder-decoder-online/) on our website if you want to use it or would like to check how it works.
